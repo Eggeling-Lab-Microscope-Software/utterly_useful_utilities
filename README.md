@@ -8,3 +8,7 @@
 3. ...
 4. ...
 5. Profit
+
+## Usage
+### `utterly_useful_utilities.Useful_windowing_Utilitites` aka `UUU.UwU`
+For that just see the `UwU_showcase.ipynb` file.
