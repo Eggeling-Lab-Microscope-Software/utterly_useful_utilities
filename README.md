@@ -3,9 +3,9 @@
 
 
 ## Installation
-1. Clone the repository
-2. Run `pip install .` in the root directory of the repository
-3. ...
+1. Clone the repository.
+2. Run `pip install .` in the root directory of the repository.
+3. Wait until the installation is finished.
 4. ...
 5. Profit
 
