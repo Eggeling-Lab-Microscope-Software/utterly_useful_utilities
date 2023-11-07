@@ -11,7 +11,7 @@ setup(
     long_description_content_type='text/markdown',
     license='BSD License',
     readme = readme,
-    packages=find_packages(include=['blobBgone']),
+    packages=find_packages(include=['UUW']),
     author='Bela Tristan Leander Vogler',
     author_email='bela.vogler@uni-jena.de',
     keywords=['Utility', 'Functions', 'Miscellaneous', 'Windowing', 'QR Codes'],
